@@ -1,0 +1,14 @@
+{
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "files.associations": {
+        "bitboard.h": "c",
+        "attacks.h": "c"
+    },
+    "disasexpl.useBinaryParsing": true,
+    "disasexpl.associations": {
+        "**/*.c": "${fileDirname}/build/${fileBasenameNoExtension}.S"
+    }
+}
